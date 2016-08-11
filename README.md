@@ -1,2 +1,3 @@
 # jekyll-docker
-A repository to create a Jekyll docker image
+
+A simple Docker container for running Jekyll.
